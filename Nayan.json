@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "miran-bot",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100091806309044",
+    "100091806309044"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100091806309044",
     ""
   ],
   "OWNER": ["100000959749712"], 
